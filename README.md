@@ -1,5 +1,5 @@
 # Ansible-Cookbooks
-Ansible Cookbooks are written in yml
+Ansible Cookbooks are written in YAML
 
 # Installation of Ansible
 yum install ansible -y
