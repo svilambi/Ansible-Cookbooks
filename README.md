@@ -4,7 +4,7 @@ Ansible Cookbooks are written in YAML
 # Installation of Ansible
 yum install ansible -y
 
-# Add Clients in below location
+# Add Clients in below location i.e inventory 
 gedit /etc/ansible/hosts
 
 # format must be as below
